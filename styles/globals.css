@@ -1,0 +1,41 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'poppins';
+  src: url('../public/fonts/Poppins.ttf'); 
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'raleway';
+  src: url('../public/fonts/Raleway.ttf'); 
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'comfort';
+  src: url('../public/fonts/Comfortaa.ttf'); 
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'great';
+  src: url('../public/fonts/GreatVibes.ttf'); 
+  font-weight: normal;
+  font-style: normal;
+}
